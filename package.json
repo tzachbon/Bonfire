@@ -8,10 +8,6 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tzachbon/Bonfire.git"
-  },
   "keywords": [
     "angular",
     "rxjs",
@@ -25,10 +21,6 @@
   ],
   "author": "Tzach Bonfil <https://tzachbonfilportfolio.web.app/>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tzachbon/Bonfire/issues"
-  },
-  "homepage": "https://github.com/tzachbon/Bonfire#readme",
   "dependencies": {
     "on-change": "^1.6.2",
     "rxjs": "^6.5.3",
